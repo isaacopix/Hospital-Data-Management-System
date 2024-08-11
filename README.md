@@ -7,13 +7,13 @@ This project provides a comprehensive database schema for managing hospital admi
 
 Table of Contents: 
 
-A) Database Creation
+1) Database Creation
 
-B) Sample Data Insertion
+2) Sample Data Insertion
 
-C) Important Queries
+3) Important Queries
 
-D) Grand Challenge
+4) Grand Challenge
 
 
 Database Schema
