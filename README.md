@@ -6,6 +6,7 @@ This project provides a comprehensive database schema for managing hospital admi
 
 
 Table of Contents
+
 Database Creation
 Sample Data Insertion
 Important Queries
@@ -13,6 +14,7 @@ Grand Challenge
 Database Schema
 
 The database consists of the following tables:
+
 admissions: Records patient admissions, including the unit name and time period of stay.
 diagnosis: Stores diagnoses made for patients, along with the time of diagnosis.
 lab: Contains lab test results for patients.
